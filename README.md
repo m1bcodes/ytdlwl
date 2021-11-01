@@ -1,3 +1,6 @@
+# Introduction
+A simple collection of scripts, which use https://github.com/yt-dlp/yt-dlp, to download all videos in your youtube watch-later playlist. It also purges videos, which are no longer in the playlist and adjusts the video files' date to the upload date of the video.
+
 # Installation
 
 1. install venv:
