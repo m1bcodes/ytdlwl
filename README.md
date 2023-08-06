@@ -35,5 +35,5 @@ flock prevents overlapping runs. For a daily job it might not be necessary, but 
 The yt-dlp logsin to youtube using cookies:
 1. Start firefox and install addon "export cookies"
 2. login to youtube and select the channel to access
-3. Export cookies (of all sites, just to be sure).
+3. Export cookies from www.youtube.com.
 4. Save as ~/ytdlwl/cookies/cookies.txt
