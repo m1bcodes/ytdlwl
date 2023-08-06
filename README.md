@@ -5,9 +5,10 @@ A simple collection of scripts, which use https://github.com/yt-dlp/yt-dlp, to d
 Clone this repository e.g. to ~/ytdlwl.
 
 0. Make scripts executable:
-'''
+```
 chmod +x install-yt-dlp.sh
 chmod +x update_wl.sh
+```
 
 1. install venv:
 Adapt the  version number to your python version accordingly
